@@ -1,3 +1,4 @@
+Hi There
 # 💫 About Me:
 🎓 Student learning programming<br>🐍 Python | HTML | CSS | JS<br>🚀 On the way to becoming a Software Engineer
 
